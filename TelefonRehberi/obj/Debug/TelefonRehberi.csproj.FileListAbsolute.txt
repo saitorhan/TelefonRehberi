@@ -1,0 +1,10 @@
+E:\Udemy\CSharpWithProjects\TelefonRehberi\TelefonRehberi\bin\Debug\TelefonRehberi.exe.config
+E:\Udemy\CSharpWithProjects\TelefonRehberi\TelefonRehberi\bin\Debug\TelefonRehberi.exe
+E:\Udemy\CSharpWithProjects\TelefonRehberi\TelefonRehberi\bin\Debug\TelefonRehberi.pdb
+E:\Udemy\CSharpWithProjects\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.csprojResolveAssemblyReference.cache
+E:\Udemy\CSharpWithProjects\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.Form1.resources
+E:\Udemy\CSharpWithProjects\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.Properties.Resources.resources
+E:\Udemy\CSharpWithProjects\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.csproj.GenerateResource.Cache
+E:\Udemy\CSharpWithProjects\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.exe
+E:\Udemy\CSharpWithProjects\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.pdb
+E:\Udemy\CSharpWithProjects\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.TelefonNumarasi.resources
